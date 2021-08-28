@@ -25,7 +25,7 @@ async function main() {
             const route = path === '/index' ? '' : path;
             return `
               <url>
-                  <loc>${`https://guptadhairya.com${route}`}</loc>
+                  <loc>${`https://www.guptadhairya.com${route}`}</loc>
               </url>
             `;
           })
